@@ -1,0 +1,18 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "dogo",
+      "imageUrl": "https://images.pexels.com/photos/406014/pexels-photo-406014.jpeg?cs=srgb&dl=adorable-blur-breed-close-up-406014.jpg&fm=jpg",
+      "imageCaption": "dogo's profile pic",
+      "description": "dogo for test"
+    },
+    {
+      "id": 2,
+      "name": "frogo",
+      "imageUrl": "https://images.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "imageCaption": "frogo's profile pic",
+      "description": "frogo for test"
+    }
+  ]
+}

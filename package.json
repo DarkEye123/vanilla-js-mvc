@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-js-mvc",
+  "version": "1.0.0",
+  "description": "mvc impl in pure js (es6+)",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkEye123/vanilla-js-mvc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkEye123/vanilla-js-mvc/issues"
+  },
+  "homepage": "https://github.com/DarkEye123/vanilla-js-mvc#readme"
+}
